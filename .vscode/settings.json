@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/e43ed616-4213-4721-b3cd-eb30fcb03f41/resourceGroups/AuthDay1/providers/Microsoft.Web/sites/demoauthday1",
+    "appService.deploySubpath": ""
+}
